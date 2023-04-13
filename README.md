@@ -1,5 +1,5 @@
 # bmstu_fqw
-##Final Qualification Work of BMSTU DS Course
+## Final Qualification Work of BMSTU DS Course
 ## Выпускная квалификационная работа по курсу "DataScience" образовательного центра МГТУ им. Н.Э. Баумана 
 ## Слушатель Александр Минин
 
